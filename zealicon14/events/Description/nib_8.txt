@@ -1,0 +1,3 @@
+SQL Samurai is an event which measures an applicant’s efficiency in data retrieval from a pre-existing database. It comprises of two rounds.
+a)    Preliminary:- The candidate’s will be given MCQs regarding Database Management Systems.  The duration of this event is 30 minutes
+b)	 Mains:- The participant’s will be given a predefined database schema and they will be given a collection of questions for which a precise query is to be executed using MySQL. It is an hour event.

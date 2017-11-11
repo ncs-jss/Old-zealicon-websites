@@ -1,0 +1,1 @@
+Build an autonomous bot (Line Follower) that can reach to its final destination. But the path to the destination is broken at a few places and it has to be fixed before the autonomous bot traverses the path. A manual robot will be provided at the event to first fix the path and only after that the autonomous bot will get going!

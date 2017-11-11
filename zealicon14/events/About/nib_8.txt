@@ -1,0 +1,4 @@
+“The degree of normality in a database is inversely proportional to that of its DBA.”
+		-Anonymous
+
+	SQL Samurai examines a participant’s aptitude towards SQL queries and efficient database handling.

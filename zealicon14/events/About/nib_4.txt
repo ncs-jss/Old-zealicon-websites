@@ -1,0 +1,3 @@
+“Hackers often describe what they do as playfully creative problem solving.”
+	-Heather Brooke
+Hackers are technocrats with strong ethics who try to breach into a network so that flaws can be detected.  I-HAX is an intriguing event which tries to simulate such a scenario.

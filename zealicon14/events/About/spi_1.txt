@@ -1,0 +1,1 @@
+Design and construct a remote controlled robot capable of fighting a one on one tournament.

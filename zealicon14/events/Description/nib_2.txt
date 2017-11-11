@@ -1,0 +1,3 @@
+Codewar is a grueling programming competition in C and Java. It comprises of two rounds.
+a)	Preliminary:- The candidate’s will be given MCQs in either C or Java (as per their choice). The round will be of 30 minutes.
+b)	Mains:-  The participant’s will be given a set of problems and they will be expected to code their solutions. This round will be of 4 hours.

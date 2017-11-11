@@ -1,0 +1,10 @@
+[17-Mar-2015 10:20:02 UTC] PHP Fatal error:  Call to undefined function dbConnect() in /home/zeal14/public_html/includes/events.php on line 4
+[17-Mar-2015 10:20:39 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 54
+[17-Mar-2015 10:22:27 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 54
+[17-Mar-2015 10:22:51 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 54
+[17-Mar-2015 10:22:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 54
+[17-Mar-2015 10:23:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 58
+[17-Mar-2015 10:23:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 58
+[17-Mar-2015 10:25:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 67
+[17-Mar-2015 10:25:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 72
+[17-Mar-2015 10:26:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/includes/events.php on line 77

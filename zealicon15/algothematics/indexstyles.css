@@ -1,0 +1,230 @@
+@import url(http://fonts.googleapis.com/css?family=Megrim);
+@import url(http://fonts.googleapis.com/css?family=Roboto:500,100,300,700,400);
+
+
+html{
+    
+ height: 100%;
+    background-image: url(plx.jpg);
+    background-color: white;
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-seriff !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#zeal{
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+}
+body{
+    overflow: hidden;
+}
+
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    
+    
+}
+
+th, td {
+    padding: 0px;
+    height: 12.5%;
+}
+
+.center{
+    content: "";
+}
+
+.centerx{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Megrim", sans-serif;
+    text-align: center;
+}
+
+td img{
+    height: 60px;
+    width: 60px;
+    margin: auto;
+    display: block;
+}
+
+body table td div{
+    margin:auto;
+    display: table;
+}
+.as{
+    width:78%;
+    margin-right: 10%;
+    text-align: right;
+    padding-right: 10px;
+    font-size: 67px;
+	color:rgba(255, 255, 255, 0.47);
+    font-weight: bold;
+    font-family: "Megrim", sans-serif;
+   
+}
+
+td >* {
+    vertical-align: middle;
+}
+
+.info{
+    transform: translateY(-50%);
+    position: absolute;
+    top:45%;
+    color:white;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#level_no{
+    width:100%;
+    display: block;
+    text-align: center;
+}
+
+.question{
+    width:100%;
+    height:80%;
+    padding:5px; 
+    text-align: center;
+    display: block;
+    overflow: auto;
+}
+
+.login{
+    z-index: 989;
+    width: 84%;
+    height: 416px;
+    display: table;   
+}
+
+
+.content{
+    width: 84%;
+    height: 416px;
+    z-index: 999;
+    color: black;
+    font-family: 'Roboto', sans-seriff !important;
+    font-size: 25px;
+    font-weight:300;
+}
+
+.register{
+    z-index: 980;
+    width: 84%;
+    height: 416px;    
+}
+
+.leaderboard{
+    z-index: 9800;
+    width: 84%;
+    
+    height: 416px;
+    color:black;
+}
+
+.battleground{
+    z-index: 980;
+    width: 84%;
+    height: 416px; 
+}
+
+.registerfrm{
+    transform: translateY(-50%);
+    position: absolute;
+    top:50%;
+    color:#ffffff;
+    text-align: center;
+    left:15%;
+    right: 35%;
+}
+.inpt{
+    margin: 10px;
+}
+footer{
+    font-size: 14px;
+    position: relative;
+    bottom:7px;
+    margin: 0px;
+    text-align: right
+}
+
+#box{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    
+}
+
+#box div{
+    top: 0px;
+}
+
+.icons{
+    position: sticky;
+}
+
+#text_box >*{
+    font-size: 20px;
+    color: white;
+}
+
+#text_box2 >*{
+    font-size: 20px;
+    color: white;
+}
+
+
+#hint{
+	font-weight:400 !important ;
+    color: rgba(233, 237, 247, 0.66);
+}
+
+.table_battle{
+    height: 8%;
+    font-size:14px;
+    text-align: center;
+}
+
+#xx td{
+    height:8.5%;
+    
+}
+
+#ques{
+    font-size: 16px;
+    overflow: auto;
+    height:85%;
+    margin:0px;
+    padding: 20px;
+    top:0px;
+}
+
+.error{
+    color: rgba(255,0 ,0 ,0.89);
+	font-weight:bold;
+	}
+
+input{
+color:white;
+font-family: 'Roboto', sans-seriff !important; 
+
+}
+
+#un{}
+
+/*------------------*/
+/*
+
+#zeal >*{
+    margin:0px;
+}
+*/
+

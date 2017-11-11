@@ -1,0 +1,25 @@
+The event will consist of only one round. 
+
+•	Each team can take two runs and the best score out of the two runs will be recorded.
+•	In case of any run time errors two timeouts each of 30 sec will be given to rectify the mistake in the bot. 
+•	Any damage to the arena by the bot will lead to its immediate disqualification.  
+
+BOT
+ a) Autonomous Bot 
+       1.        Each team is allowed to have only a single bot. 
+       2.        Bot dimensions should not exceed 25cm*25cm*15cm (l*b*h). 
+       3.        Ready-made sensors & development boards can be used but no other part of the robot should contain any ready-made components. 
+       4.        The bot shouldn’t be constructed using Lego kits or readymade mechanism. 
+       5.        Bot may have an on-board or off board power supply. 
+       6.        The maximum voltage difference between any two points should not exceed 12V. 
+
+ b) Manual Bot
+It will be provided by the organizers at the event.  
+
+TRACK-
+
+1. Width of the track is 40cms (for autonomous robot). 
+2. The autonomous bot has to traverse black line over white arena and the width of the black line is 2cm.
+3. The path will consists of curves, turns of up to 90 degrees and cross points.
+4. There will be no hurdles in the path of manual robot.
+5. The block to be fixed by the manual robot will have a maximum dimension of (40 cm * 40cm * 40cm) (l*b*h).

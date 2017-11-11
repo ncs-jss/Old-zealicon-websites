@@ -1,0 +1,135 @@
+<!Doctype html>
+<html style="height:100%;">
+<head>
+    <meta charset="utf-8">
+    <title>Algothematics | Home</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <meta name="description" content="">
+    <meta name="author" content="Zealicon 2015">
+    <meta name="application-name" content="Algothematics">
+    <meta name="keywords" content="zealicon 2015, zealicon, JSSATEN, JSSATE, JSS academy of technical education, alogothematics, mathematical puzzles, brain twisters, contest, zealicon 2k15, zealicon event, algothematics leaderboard">
+    <link rel="stylesheet" href="indexstyles.css" >
+
+<script>
+$(document).ready(function(){
+    
+        $(".content").show();
+        $(".login").hide();
+        $(".register").hide();
+        $(".battleground").hide();
+        $(".leaderboard").hide();
+    $("#home_row").click(function(){
+        $(".content").show();
+        $(".login").hide();
+        $(".register").hide();
+        $(".battleground").hide();
+        $(".leaderboard").hide();
+    });
+	$("#login_row").click(function(){
+        $(".content").hide();
+        $(".login").show();
+        $(".register").hide();
+        $(".battleground").hide();
+        $(".leaderboard").hide();
+    });
+    $("#register_row").click(function(){
+        $(".login").hide();
+        $(".content").hide();
+        $(".register").show();
+        $(".battleground").hide();
+        $(".leaderboard").hide();
+    });
+	$("#battle_row").click(function(){
+        $(".login").hide();
+        $(".register").hide();
+        $(".content").hide();
+        $(".battleground").show();
+        $(".leaderboard").hide();
+    });
+	$("#leaderbrd_row").click(function(){
+        $(".login").hide();
+        $(".register").hide();
+        $(".battleground").hide();
+        $(".content").hide();
+        $(".leaderboard").show();
+    });
+});</script>
+
+</head>
+
+<body style="height:95%">
+    
+    <table style="width:100%;height:100%;">
+        <tr><th class="center">ALGOTHEMATICS</th><th class="as">JSS| ZEALICON '15</th></tr>
+        <tr><td></td><td rowspan="9" style="position:relative;">
+            
+            <div class="content"><div style="display:table-cell;padding:0px;margin:0px;height:100%;width:100%;position:relative;"><p class="info">
+                "Algothematics" (Algorithms + Mathematics) is an online event that involves solving of some cumbersome mathematical problems. The event's questions are planned such that the player needs to build some algorithm to solve a mathematical problem. One thing that is even more interesting is that user need to just fill in the numerical answer he gets. No submission of source code is required.</p> </div>           
+                </div>
+            
+            <div class="login">
+                <div  style="display:table-cell;padding:0px;margin:0px;height:100%;width:100%;position:relative;"><p class="info" style="left:15%;right: 15%;">
+            Enter your login details:
+                <br/><br/><br/><br/>
+              <form action = "login.php" method = "post">
+
+			  <input class="inpt" type="email" id="username" name="username" value="<?php echo $_SESSION['username']?>" placeholder="Username *" onfocus="if (this.value == 'Hint text..') this.value=''" onblur="if (this.value == '') this.value='Email Address..'"/>
+                
+                <input class="inpt" type="password" id="password" name="password" placeholder="Password *" onfocus="if (this.value == 'Hint text..') this.value=''" placeholder="Password" onblur="if (this.value == '') this.value='Email Address..'"/>
+                    <br/>
+                    <button id="button_login" type="submit" id="login" name="login">Log in</button>
+                </form>
+                </p>
+                </div>
+            </div>
+            
+            <div class="register">
+                <div  style="display:table-cell;padding:0px;margin:0px;height:100%;width:100%;position:relative;">
+                    <form class="registerfrm">
+				<table class="table" style="width:140%;">
+					<tr><td>First Name :</td> <td><input type="text" name="fname"></td></tr>
+					<tr><td>Last Name :</td> <td><input type="text" name="lname"></td></tr>	
+					<tr><td>College :</td> <td><input type="text" name="college"></td></tr>	
+					<tr><td>Email/Username :</td> <td><input type="text" name="email"></td></tr>	
+					<tr><td>Password :</td> <td><input type="password" name="passwd"></td></tr>	
+					<tr><td>Confirm Password :</td> <td><input type="password" name="passwd_2"></td></tr>
+					<tr><td /><td><input type="submit" value="Register" class="btn btn-danger"></td></tr>
+				</table>
+			</form>
+                </div>
+            </div>
+            
+            <div class="battleground"><div style="display:table-cell;padding:0px;margin:0px;height:100%;width:100%;position:relative;"><p id="level_no">LEVEL: whatever</p><p  class="question">
+                Questions come here...</p> </div>           
+                </div>
+            
+            <div class="leaderboard">
+                <div  style="display:table-cell;padding:0px;margin:0px;height:100%;width:100%;position:relative;">
+                    <form class="registerfrm" style="left:0%;right: 0%;width:100%">
+				<table class="table" style="width:100%;">
+					<tr>
+                        <th style="width:35%">Name</th> 
+                        <th style="width:50%">College</th>            
+                        <th style="width:15%">Level</th>
+                    </tr>
+                    <!-- table rows to be added dynamically -->
+				</table>
+			</form>
+                </div>
+            </div>
+            
+            </td></tr>
+        <tr><td></td></tr>
+        <tr class="left" id="home_row"><td><img src="Chrome.png" >Home</td></tr>
+        <tr class="left" id="login_row"><td><img src="Chrome.png">Login</td></tr>
+        <tr class="left" id="register_row"><td><img src="Chrome.png">Register</td></tr>
+        <tr class="left" id="battle_row"><td><img src="Chrome.png">Battleground</td></tr>
+        <tr class="left" id="leaderbrd_row"><td><img src="Chrome.png">Leaderboard</td></tr>
+        <tr><td></td></tr>
+        <tr><td></td></tr>
+        
+    </table>
+    
+</body>
+
+</html>

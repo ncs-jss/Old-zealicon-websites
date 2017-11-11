@@ -1,0 +1,7 @@
+•	Each participant will be given a word.
+•	As soon as your word matches with its corresponding
+        synonym & antonym, you have to report at the help desk.
+•	The participants reaching at the earliest will qualify for the
+        next round.
+•	Winner and runner-up will be based on the performance of   
+        second round.

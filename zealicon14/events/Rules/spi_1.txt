@@ -1,0 +1,12 @@
+Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing 
+1.	Special care should be taken to protect the on-board batteries and pneumatics, robot without proper protection will not be allowed to compete.
+2.	If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers. Safe innovation is always encouraged, but surprising the organizers with your brilliant exploitation of a loophole may cause your robot to be disqualified before it even competes.
+3.	Each event has safety inspections. It is at their sole discretion that your robot is allowed to compete. As a builder you are obligated to disclose all operating principles and potential dangers to the inspection staff.
+4.	Proper activation and deactivation of robots is critical. Robots must only be activated in the arena, testing areas, or with expressed consent of the event coordinators.
+5.	All participants build and operate robots at their own risk. Combat robotics is inherently dangerous. There is no amount of regulation that can encompass all the dangers involved. Please take care to not hurt yourself or others when building, testing and competing.
+6.	Any kind of activity (repairing, battery handling, pneumatics systems etc.) which may cause damage to the surroundings during the stay of the teams in the competition area should not be carried out without the consent of organizers. Not following this rule may result in disqualification.
+7.	All the resources provided at the time of competition from the organizers should be strictly used only after the consent of the organizers.
+8.	Once the robots have entered into the arena, no team members can enter into the arena at any point of time. In case if fight has to be halted in between and some changes have to be done in the arena or condition of the robot(s), it will be done by organizers only.
+
+Team Specification
+A team may consist of a maximum of 6 participants. Participants can be from the same or different educational institutes.

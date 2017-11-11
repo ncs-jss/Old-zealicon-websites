@@ -1,0 +1,2 @@
+1.	It is a team event. A team can contain maximum 2 players.
+2.	The scripts would be executed in Linux Ubuntu 10.04 32-bit

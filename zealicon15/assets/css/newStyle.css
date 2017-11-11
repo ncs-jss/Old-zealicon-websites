@@ -1,0 +1,107 @@
+.panel ul li{
+	display: inline-block;
+	width:40%;
+	margin:5%;
+	float:left;
+	margin-bottom: 10px;
+}
+.panel ul li a,.panel ul li a:hover{
+	padding:10px 5px;
+	width:100%;
+	display: inline-block;
+	color:black;
+	border:1px solid #ccc;
+	background: white;
+}
+
+.md-content{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+
+.md-content ul{
+	margin:0;
+	padding:0;
+	font-weight: 300;
+	opacity: 0.8;
+	background: rgba(0,0,0,0.1);
+	list-style: none;
+}
+.md-content ul li{
+	display: inline-block;
+	margin:10px;
+}
+.md-content ul li a,.md-content ul li a:hover{
+	text-decoration: none;
+	color:black;
+	padding:15px 20px;
+	display: inline-block;
+}
+.md-content .sidebar{
+	height:85%;
+	display: block;
+	position: fixed;
+	left: 0;
+	width:170px;
+    overflow-y: auto;
+} 
+.md-content .sidebar li{
+	display: block;
+}
+.md-content .sidebar li a,.md-content .sidebar li a:hover{
+	width:100%;
+	padding:15px 0;
+}
+.md-content button,html.mouse button:hover{
+	position: absolute;
+	right:25px;
+	top:15px;
+	width:auto;
+	color:black;
+	font-weight: bold;
+	background: transparent;
+	font-size: 1.4em;
+	padding:5px;
+}
+
+
+
+.event-details{
+    text-align: left;
+    float: right;
+    width: 81%;
+    padding-left: 10px;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.sidebar{
+    overflow-y: auto;
+}
+
+.event-details h2{
+    font-size: 
+}
+
+.event-details p{
+    color: #222; 
+    line-height: 1.5em;
+    font-weight: 300;
+    
+}
+
+.event-details span{
+    font-family: 'Roboto', sans-serif !important;
+	
+}
+
+.content-right{
+    float: left;
+    padding-left: 15px;
+    width:21%;
+}
+.content-left{
+    float: left ;
+    width:75%; 
+    overflow-y: auto;
+    margin-bottom:   40px;
+}

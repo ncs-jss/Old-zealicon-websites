@@ -1,0 +1,371 @@
+.bg
+{
+	background: url('../img/a.jpg');
+    background-attachment:fixed;
+    background-repeat:repeat-x;
+	color:white;
+	font-family:newrock;
+	font-size: 15px;
+	word-spacing:2px;
+}
+
+/*Header block*/
+.header
+{
+	width:70.5%;
+	text-align:center;
+	margin-left: auto;
+	margin-top:25px;
+	margin-right: auto;
+	font-size: 3rem;
+}
+.imgt
+{
+	width:15%;
+}
+.hdng
+{
+	width:85%;
+	float:right;
+	margin-top:-120px;
+}
+
+
+
+/*Main Block*/
+
+.main
+{
+	width:1024px;
+	max-width: 1024px;
+
+	margin-left: auto;
+	margin-right: auto;
+	text-align:left;
+}
+
+.part-1
+{
+	display:inline;
+	width:250px;
+	float:left;
+	border-right:2px solid white;
+	font-size:1.5rem;
+	height:400px;
+	overflow:hidden;
+	padding: 5px;
+	margin:5px;
+}
+
+.part-2 , .main_content
+{
+	font-family: textfont;
+	display:inline;
+	width:650px;
+	padding:0px 10px;
+	margin:10px;
+	text-align: left;
+	height:400px;
+	overflow:auto;
+	float:right;
+}
+
+.main_content table
+{
+ text-align:center;
+ border-spacing: 15px;
+ border-collapse: separate;
+}
+
+
+
+.qimg
+{
+	display: inline;
+	width:270px;
+	height:270px;
+	margin: 0px 20px;
+}
+
+.ques
+{
+	display: inline;
+	width:270px;
+	margin: 30px;
+}
+
+.imgt
+{
+	display:block;
+	background-image:url('../img/z_blood.png');
+	background-size:contain;
+	width:200px;
+	height:200px;
+	background-repeat: no-repeat;
+	vertical-align:top;
+}
+
+.smenu{
+	margin:0 auto;
+	text-align:center;
+	display:block;
+	width:230px;
+	height:400px;
+	}
+	
+.smenu ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	line-height:normal;
+	}
+
+.smenu li{
+	width:180px;
+	float:left;
+	margin-left:0px;
+	text-align:center;
+	height: 30px;
+	background-color:#6D0A0E;
+	color:white;
+	border:2px solid #000000;
+	border-radius:5px;
+	padding:10px 5px;
+	margin: 5px;
+	cursor:pointer;
+	 transition: background-color 300ms ease-out; 
+	}
+	
+.smenu li:hover{
+	
+	border:2px solid #555555;
+	background-color:#4256BB;
+	color:#000;
+	
+	}
+
+
+		
+.smenu a  {
+	display: block;
+	padding:0px;
+	font-weight:normal;
+	border:0px;
+	text-decoration:none;
+	}
+
+
+form {
+  margin: 0 0 1rem; }
+
+/* Using forms within rows, we need to set some defaults */
+form .row .row {
+  margin: 0 -0.5rem; }
+  form .row .row .column,
+  form .row .row .columns {
+    padding: 0 0.5rem; }
+  form .row .row.collapse {
+    margin: 0; }
+    form .row .row.collapse .column,
+    form .row .row.collapse .columns {
+      padding: 0; }
+    form .row .row.collapse input {
+      border-bottom-right-radius: 0;
+      border-top-right-radius: 0; }
+form .row input.column,
+form .row input.columns,
+form .row textarea.column,
+form .row textarea.columns {
+  padding-left: 0.5rem; }
+  
+  
+  
+  button, .button {
+  border-width: 0px;
+  cursor: pointer;
+  font-weight: normal;
+  position: relative;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  padding-top: 0.7rem 0.7rem 0.7rem 0.7rem;
+  font-size: 1.2rem;
+  background-color: #2c3e50;
+  border-color: #2285a2;
+  color: white;
+  transition: background-color 300ms ease-out; }
+  button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #7f8c8d; 
+    color: black; }
+
+  
+/*Media Query For Mobile Version*/
+@media screen and (max-width: 640px) 
+{
+ .bg
+{
+	background: #000;
+	color:white;
+	font-size:8px;
+	text-align:center;
+}
+
+/*Header block*/
+.header
+{
+	width:600px;
+	min-width:240px;
+	text-align:center;
+	margin-left: auto;
+	margin-top:2px;
+	margin-right: auto;
+	font-size: 10px;;
+}
+.hdng
+{
+	width:450px;
+	min-width:180px;
+	float:right;
+}
+
+.imgt
+{
+	display:none;
+	width:33px;
+	height:33px;
+}
+
+
+
+/*Main Block*/
+
+.main
+{
+	display:inline;
+	width:640px;
+	min-width: 240px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+}
+
+.part-1
+{
+	display:block;
+	width:630px;
+	min-width:250px;
+	float:left;
+	border-right:2px solid white;
+	font-size:1.5rem;
+	height:25px;
+	overflow:hidden;
+	margin:3px;
+	font-size:8px;
+}
+
+.part-2, .main_content
+{
+	display:block;
+	word-wrap:break-word;
+	width:630px;
+	min-width:250px;
+	padding:2px;
+	margin:2px;
+	text-align: center;
+	height:400px;
+	overflow:auto;
+	float:right;
+	font-size:8px;
+	font-wrap:
+}
+
+
+.smenu{
+	margin:0 auto;
+	text-align:center;
+	display:block;
+	width:620px;
+	min-width:240px;
+	height:400px;
+	}
+	
+.smenu ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	line-height:normal;
+	}
+
+.smenu li{
+	width:46px;
+	float:left;
+	margin-left:0px;
+	text-align:center;
+	height: 10px;
+	background-color:#FF1432;
+	color:white;
+	border-radius:5px;
+	padding:1px;
+	margin: 1px;
+	cursor:pointer;
+	}
+	
+.smenu li img
+{
+	width:6px;
+	height:6px;
+	display:inline;
+	float:left;
+	vertical-align:middle;
+	margin: 0px 2px 0px 0px;
+	opacity:0.8;
+}
+
+.smenu li:hover{
+	float:left;
+	margin-left:0px;
+	background-color:#000;
+	color:#fff;
+	text-align:right;
+	}
+
+
+		
+.smenu a  {
+	display: block;
+	padding:0px;
+	font-weight:normal;
+	border:0px;
+	text-decoration:none;
+	}
+.qimg
+{
+	display: inline;
+	width:180px;
+	height:180px;
+	margin: 0px 2px;
+}
+
+.ques
+{
+	display: inline;
+	width:180px;
+	margin: 2px;
+}
+
+}
+
+
+/*FONTS*/
+
+@font-face
+{
+ font-family: newrock;
+ src: url('Barnard.ttf');
+}
+
+@font-face
+{
+ font-family: textfont;
+ src: url('Bellota.otf');
+}

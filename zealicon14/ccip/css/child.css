@@ -1,0 +1,49 @@
+#main_header
+{
+	background-image: url('../images/delhi_header.png');
+	border-radius:5px;
+	background-size:cover;
+	background-repeat:no-repeat;
+	height: 250px;
+}
+#main_header:hover
+{
+ opacity:0.9;
+}
+.header-image .header-main { color: #00FFCC;}
+.header-image .header-sub { color: #00FF66; }
+.header-image .header-det { color: #FFFFFF; }
+
+a.button.color span {background-color:transparent;}
+a.button.color {background-color:transparent;}
+ul.pricing li.price span {color:#345a97;}
+.body .pagination ul.pages li.active a:hover {color:#345a97;}
+.body .blog blockquote, blockquote.full {border-left:2px solid #345a97;}
+.testimonials.style-2 .source img {border-color:#345a97;}
+.body .blog.style-4 .border .meta p {background:#345a97;}
+.footer .foot-nav {background-color:#345a97;}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span {color:#345a97;}
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong, h6 strong {color:#345a97;}
+a, a:visited { color: #345a97; }
+.block-icons .icon:hover .symbol { background-color: #345a97; }
+.tabbed-area ul.tabs li a.active {color:#345a97;border-top:1px solid #345a97;}
+.header .nav .standard ul.tabs li a.active,.onebyone h1 strong,.header .nav .standard ul.tabs li a:hover {color:#70A1F0 !important;}
+.header .logo {background-color:#345a97;}
+.footer .logo-caption, .footer .logo-caption-overlay {background-color:#345a97;}
+h1, h2, h3, h4, h5, h6 {font-family: "Trebuchet MS";}
+body {background:url(../images/patterns/weave.png) top left repeat #e1e1e1;}
+body .page-wrapper {background:url(../images/patterns/noise-lowest.png) top left repeat;}
+body .overlay {background:url(../images/patterns/noise-lowest.png) top left repeat transparent;}
+a.button.color { background: transparent url(../images/design/buttons/cbutton-violet-cut.png) no-repeat scroll top right;}
+a.button.color span { background: transparent url(../images/design/buttons/cbutton-violet.png) no-repeat;}
+ul.slidecontrols li a.next:hover {background-color:#345a97;}
+ul.slidecontrols li a.prev:hover {background-color:#345a97;}
+.header .nav {background-color:#345a97;}
+.header .submenu ul.deep-child .tr,.header .menu li.submenu ul.child  {border-color:#345a97;}
+.header .nav a.active span.indicator {background-color:#345a97;}
+.footer.style-2 .foot-nav-bg {background-color:#323232;}
+a.big-button:active,a.big-button:active span,a.big-button:hover,a.big-button:hover span,a.medium-button:active,a.medium-button:active span,a.medium-button:hover,a.medium-button:hover span {background-color:#345a97;}
+.footer.style-2 .logo-caption, .footer.style-2 .logo-caption-overlay {background-color:#345a97;}
+.body .portfolio.standard .item:hover,.onebyone h1 strong {border-color:#345a97 !important;}
+.circles .columns .icon:hover, .circles .columns:hover,.circles .columns:hover .icon { border-color:#345a97;}
+body .slug-pattern .slug-cut {background:url(../images/design/slug-crop.png) repeat-x transparent;}

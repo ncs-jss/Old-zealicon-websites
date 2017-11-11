@@ -1,0 +1,2 @@
+"...you might as well skip the Xmas celebration completely, and instead sit in front of your linux computer playing with the all-new-and-improved linux kernel version." (By Linus Torvalds)
+Cracking egg shells might be simple enough for most of us. But when we discuss about cracking Linux shell, the situation gets complicated.

@@ -1,0 +1,156 @@
+html {
+	overflow: hidden;
+}
+@font-face
+{
+	font-family:newrocker;
+	src:url('../fonts/newrocker.ttf');
+}
+body {
+	position: absolute;
+	background: url('../img/csbg.jpg');
+	background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    width:100%;
+    height:100%;
+}
+#hdng
+{
+	font-family:newrocker;
+	text-align:center;
+	font-size:50px;
+	color:#d35400;
+	margin-left:13px;
+	z-index:-555;
+}
+
+#htext
+{
+ position:absolute; 
+ left:3%; 
+ top:12%;
+ height:5%;
+ width:15%;
+ font-size:24px;
+ font-weight:bold;
+ color:#EEEEEE;
+ border-top:2px solid #AA0000; 
+ border-bottom:2px solid #AA0000; 
+ z-index:-20;
+ text-align:center;
+ background-color:black;
+}
+
+.inv
+{
+ display:none;
+}
+
+.vis
+{
+ display:block;
+}
+
+
+
+#shdw
+{
+	font-family:newrocker;
+	text-align:center;
+	font-size:50px;
+	color:white;
+	margin-top:-57px;
+	z-index:-1;
+}
+#backbut
+{
+	width:50px;
+	overflow:hidden;
+	height:50px;
+	border-radius:50px;
+	border: 4px solid #34495e;
+	font-size:42px;
+	background:#7f8c8d;
+	float:left;
+	text-align:center;
+	color:#34495e;
+	-webkit-animation:back 2s ease; /* Chrome, Safari, Opera */
+	-moz-animation:back 2s ease; /* Moz */
+	animation:back 2s ease;
+}
+#backbut:hover
+{
+	background:black;
+	cursor: pointer;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes back
+{
+0%   {opacity:0; margin-top:200px}
+100%  {opacity:1; margin-top:0px}
+}
+/* Moz */
+@-moz-keyframes back
+{
+0%   {opacity:0; margin-top:200px}
+100%  {opacity:1; margin-top:0px}
+}
+
+/* Standard syntax */
+@keyframes back
+{
+0%   {opacity:0; margin-top:200px}
+100%  {opacity:1; margin-top:0px}
+}
+
+#aboutus
+{
+	width:50px;
+	height:50px;
+	border-radius:50px;
+	border: 4px solid #34495e;
+	font-size:42px;
+	margin-right:20px;
+	background:#7f8c8d;
+	text-align:center;
+	float:right;
+	color:#34495e;
+	-webkit-animation:about 5s ease; /* Chrome, Safari, Opera */
+	-moz-animation:about 5s ease; /* Moz */
+	animation:about 5s ease;
+}
+#aboutus:hover
+{
+	background:black;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes about
+{
+	0%   {opacity:0; margin-top:200px}
+100%  {opacity:1; margin-top:0px}
+}
+/* Moz */
+@-moz-keyframes about
+{
+	0%   {opacity:0; margin-top:200px}
+100%  {opacity:1; margin-top:0px}
+}
+
+/* Standard syntax */
+@keyframes about
+{
+	0%   {opacity:0; margin-top:200px}
+100%  {opacity:1; margin-top:0px}
+}
+
+
+
+#screen {
+	position: absolute;
+	width: 90%;
+	height: 90%;
+	margin:5%;
+	z-index:999;
+}

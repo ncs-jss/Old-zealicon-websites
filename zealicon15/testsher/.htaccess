@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^testsher\.zealicon\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.testsher\.zealicon\.in$
+RewriteRule ^/?$ "http\:\/\/sherloked\.herokuapp\.com" [R=301,L]
+

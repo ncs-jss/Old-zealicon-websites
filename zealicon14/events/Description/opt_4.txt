@@ -1,0 +1,12 @@
+Each entrant must formally present his/her abstract in the competition. The topics of interest may include (but are not limited to) the following:
+•	Security
+•	Mobility
+•	Social Media
+•	Analytics and Big Data
+•	Wireless Sensor Networks
+•	Satellite Data Analysis and Interpretation
+•	Robotics
+•	Biometric Image Processing
+•	3D Shape and Structure Analysis
+•	Animation and Motion
+•	Video Compression

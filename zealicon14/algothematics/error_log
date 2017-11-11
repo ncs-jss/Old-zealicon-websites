@@ -1,0 +1,2 @@
+[22-Jul-2014 01:55:13 UTC] PHP Warning:  include_once(code/sidebar.php): failed to open stream: No such file or directory in /home/zeal14/public_html/algothematics/index.php on line 17
+[22-Jul-2014 01:55:13 UTC] PHP Warning:  include_once(): Failed opening 'code/sidebar.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/zeal14/public_html/algothematics/index.php on line 17

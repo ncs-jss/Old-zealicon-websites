@@ -1,0 +1,2 @@
+In the robotics contingent, each team has to prepare a robot. The main aim of the robot will be to watering the plants placed in track and to clean the garbage by putting it in the garbage recyclable unit. The team with the maximum points will win the contest. Each team will be consisting of 5 persons. Workshops will be held so as to enable them to learn how to make the robot.
+The team will compete in an arena where they will have to face many hurdles and obstacles. This will be judged by the jury.

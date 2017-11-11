@@ -1,0 +1,1 @@
+ To design a  bot whose function is watering the plants and to collect the garbage from the ground and put it into the garbage unit .

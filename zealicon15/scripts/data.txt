@@ -1,0 +1,187 @@
+    <div id="container" class="wrapper">
+        <ul id="scene" class="scene unselectable" data-friction-x="0.1" data-friction-y="0.1" data-scalar-x="25" data-scalar-y="15">
+            <li class="layer" data-depth="0.00"></li>
+            <li class="layer logo" data-depth="0.10"><div class="background"></div>
+            </li>
+            <li class="layer" data-depth="0.15">
+                <ul class="rope depth-10">
+                    <li><img src="assets/images/rope.png" alt="Rope"></li>
+                    <li class="hanger position-2">
+                        <div class="board dance swing-1"></div>
+                    </li>
+                    <li class="hanger position-4">
+                        <div class="board cloud-1 swing-3"></div>
+                    </li>
+                </ul>
+            </li>
+            <li class="layer" data-depth="0.30">
+                <ul class="rope depth-30">
+                    <li><img src="assets/images/rope.png" alt="Rope"></li>
+
+                    <li class="hanger position-1">
+                        <div class="board tabla swing-3"></div>
+                    </li>
+                    <li class="hanger position-7">
+                        <div class="board  ncs swing-5"></div>
+                    </li>
+                    <li class="hanger position-5">
+                        <div class="board cloud-4 swing-1"></div>
+                    </li>
+                </ul>
+            </li>
+            <li class="layer" data-depth="0.50"><div class=" road  depth-50"></div></li> 
+            <li class="layer" data-depth="0.50"><div class="road car1  depth-50"></div></li> 
+            <li class="layer" data-depth="0.50"><div class="road car2  depth-50"></div></li> 
+            <li class="layer" data-depth="0.60">
+                <ul class="rope depth-60">
+                    <li><img src="assets/images/rope.png" alt="Rope"></li>
+                    <li class="hanger position-3">
+                        <div class="board art swing-5"></div>
+                    </li>
+                    <li class="hanger position-6">
+                        <div class="board cloud-2 swing-2"></div>
+                    </li>
+                    <li class="hanger position-8">
+                        <div class="board  swing-4 tablet"></div>
+                    </li>
+                </ul>
+            </li>
+            <li class="layer" data-depth="0.60"><div class="grass top plain depth-60"></div></li> 
+            <li class="layer" data-depth="0.70">
+                <div class="grass middle depth-70">
+                    <div class="notes">
+                        <img src="assets/images/notes.png">
+                    </div>
+                </div>
+            </li>
+            <li class="layer" data-depth="0.80"><div class="wave plain depth-80"></div></li>
+            <li class="layer" data-depth="0.90"><div class="wave paint depth-90"></div></li>
+            <li class="layer" data-depth="1.00"><div class="grass top depth-100"></div></li>
+        </ul>
+        <section id="dataModal" class="wrapper about hide accelerate">
+            <div class="cell accelerate">
+                <div class="cables center accelerate">
+                    <div class="panel accelerate">
+                        <header>
+                            <h1>About<em>Zealicon</em></h1>
+                        </header>
+                        <a href="javascript:" class="closeModal">X</a>
+                        <p> Amidst our wrapped up lives, we tend to contain our talents as well. These talents and skills are what make each one of us stand out of the crowd, all we need is a platform. <br>
+                        <strong>ZEALICON</strong> is the annual techno-cultural fest of JSS Academy of Technical Education,  Noida. <br>
+                        An oppurtunity for each one of us to bring out our best by competing with adept individuals.
+                        ZEALICON 2015 is lined up with a plethora of much exuberant cultural as well as technical events.<br> Unlike the common notion that advancements in technology are making the traditions and culture futile, we at JSS believe that culture and technology can go hand in hand. The three day extravaganza of <strong> Zealicon </strong> aims to spread the word.
+                        <br>
+                        <strong> Zebi</strong> and <strong>Zikon</strong> have come back in time to march along with us in this joyful journey to revive the diversified culture and enrich our minds for a better future.<br> 
+                        </p>
+                        <p class="margin-bottom">We welcome you all to be a part of the megaevent. <br>  <strong>
+                        "FEEL THE ZEAL"</strong> </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="top-bar">
+            <ul class="nav">
+                <li class="active"><a href="javascript:" class="i" data-show="aboutBlock">About</a></li>
+                <li><a href="javascript:" class="i" data-show="events">Events</a></li>
+                <li><a href="javascript:" class="i" data-show="reach">Reach</a></li>
+                <li><a href="javascript:" class="i" data-show="team">Team</a></li>
+                <li><a href="javascript:" class="i" data-show="sponsors">Sponsors</a></li>
+                <li><a href="javascript:" class="i" data-show="contact">Contact</a></li>
+                <li><a href="javascript:" class="i" data-show="login">Register</a></li>
+                <li><a href="javascript:" class="i" data-show="schedule">Schedule</a></li>
+            </ul>
+            <ul class="social">
+                <li><a href="https://www.facebook.com/zealicon" target="_blank">
+                    <img src="assets/images/fb.png">
+                </a></li>
+                <li><a href="https://twitter.com/zealicon_jss" target="_blank">
+                    <img src="assets/images/twitter.png">
+                </a></li>
+                <li><a href="#">
+                    <img src="assets/images/youtube.png">
+                </a></li>
+            </ul>
+            <audio id="background_audio" autoplay="autoplay" loop>
+                <source src="assets/bg_music.mp3" type="audio/mpeg" />
+                </audio> 
+                <a href="javascript" id="mute">
+                <img src="assets/images/audio.png">
+               
+        </div>
+        <div class="aboutBlock hideBlock">
+            <header>
+                <h1>About <em>Zealicon</em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <p> Amidst our wrapped up lives, we tend to contain our talents as well. These talents and skills are what make each one of us stand out of the crowd, all we need is a platform. <br>
+            <strong>ZEALICON</strong> is the annual techno-cultural fest of JSS Academy of Technical Education,  Noida. <br>
+            An oppurtunity for each one of us to bring out our best by competing with adept individuals.
+            ZEALICON 2015 is lined up with a plethora of much exuberant cultural as well as technical events.<br> Unlike the common notion that advancements in technology are making the traditions and culture futile, we at JSS believe that culture and technology can go hand in hand. The three day extravaganza of <strong> Zealicon </strong> aims to spread the word. 
+            <br>
+            <strong> Zebi</strong> and <strong>Zikon</strong> have come back in time to march along with us in this joyful journey to revive the diversified culture and enrich our minds for a better future.<br> 
+            </p>
+            <p class="margin-bottom">We welcome you all to be a part of the megaevent. <br>  <strong>
+            "FEEL THE ZEAL"</strong> </p>
+        </div>
+        <div class="events hideBlock">
+            <header>
+                <h1>Events <em></em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <a href="javascript:" class="closeModal">X</a>
+            <p> Setting the Battleground for you. </p>
+            <p>Come back soon.</p>        
+        </div>
+        <div class="reach hideBlock">
+            <header>
+                <h1>Reach <em></em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <p>Atithi Devo Bhav</p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3502.523079451588!2d77.359504!3d28.614081!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce541dc34567f%3A0x4fd027cb23d66b19!2sJSS+Academy+Of+Technical+Education!5e0!3m2!1sen!2sin!4v1426184999508" width="100%" height="350" frameborder="0" style="border:0"></iframe>
+        </div>
+        <div class="team hideBlock">
+            <header>
+                <h1>Team <em></em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <p> is currently busy working :P </p>
+            <p></p>        
+        </div>
+        <div class="sponsors hideBlock">
+            <header>
+                <h1>Sponsors <em></em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <p> </p>
+            <p>Boost Us !</p>
+        </div>
+        <div class="contact hideBlock">
+            <header>
+                <h1>Contact <em></em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <p> </p>
+            <p>Professor R.B. Sharma<br><strong>Festival Convenor</strong><br>+0120-2400104</p>
+            <p>Aman Agarwal<br><strong>Festival Secretary</strong><br>+91-9910693604</p>
+        </div>
+        <div class="login hideBlock">
+            <header>
+                <h1>Register<em></em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <p>Quite anxious huh!</p>
+            <p>Just give us a little time more.</p>        
+        </div>
+        <div class="schedule hideBlock">
+            <header>
+                <h1><em>Schedule</em></h1>
+            </header>
+            <a href="javascript:" class="closeModal">X</a>
+            <p>Will be added to the Timeline soon.</p>        
+        </div>
+    </div>
+    <link rel="stylesheet" type="text/css" href="assets/css/styles.css?version=2"/>
+    <script src="assets/js/libraries.min.js"></script>
+    <script src="assets/js/jquery.parallax.js"></script>
+    <script src="assets/js/home.js"></script>

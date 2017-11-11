@@ -1,0 +1,3 @@
+All you have to do is to prepare a robot capable of picking and dropping blocks on the arena and grab/lift/carry so as to score.
+
+The OBJECTIVE is to score as much as possible. The score will be obtained on completing given tasks.

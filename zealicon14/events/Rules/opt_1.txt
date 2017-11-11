@@ -1,0 +1,1 @@
+Teams should contain 3 members. Participants should have basic idea about the C language.

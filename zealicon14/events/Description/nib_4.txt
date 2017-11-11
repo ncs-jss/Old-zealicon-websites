@@ -1,0 +1,3 @@
+I-HAX is a hacking event in which the participant’s will be presented a series of levels and the competitors have to get past without skipping any of them. The event is divided into 2 sections:
+1.	Preliminary: There will a set of MCQs related to ethical hacking. The time allotted for this event is 30 minutes
+2.	Mains: The main event will have a series of challenges in the form of passwords and the participant needs to break through them. The time allotted for this event is 1 hour

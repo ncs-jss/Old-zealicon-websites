@@ -1,0 +1,5 @@
+The event will be conducted in two rounds.
+First- The Elimination round will be of 30 minutes and it consists of 30 objective questions on language ‘C’.
+The qualifying candidates will participate in the Mains.
+Second- Mains round will be of 2 hours duration.
+In this round, participants will be provided with 8 exe files of ‘C’ to crack and analyze these file for their input/output formats and patterns. Participants are supposed to guess the algorithm based on these exe files.

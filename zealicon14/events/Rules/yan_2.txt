@@ -1,0 +1,3 @@
+ Maximum allowed time for each team is 20 minutes.
+ The machine must travel in a straight line only. After start of the time if in case there occurs a problem then the team is allowed to touch the machine maximum 3 times in level 1 and 2 times in level 2.
+ Teams are not allowed to move out their machine during their gameplay. Once there machine is removed from arena team will be disqualified.

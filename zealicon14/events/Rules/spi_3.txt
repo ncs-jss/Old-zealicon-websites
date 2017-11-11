@@ -1,0 +1,24 @@
+Competition Rules
+•	The first round will be a Time-Trial round.
+•	Each bot has to complete a portion of the main track in minimum possible time.
+•	Top teams from qualifying round will make it to the second round.
+•	The track will have check points at regular intervals.
+•	If a machine tumbles, or halts, or goes off the arena at any point on the track, only one of the participants is allowed to lift it up and place it at the nearest checkpoint behind that point.
+•	The vehicles have to be fully controlled using only the remote control unless there is a need to touch the vehicle as stated above.
+•	There will be a time penalty every time the machine requires lifting by the team member.
+•	Any vehicle is not allowed to leave any disintegrated part on the race track amidst of the race. In case this happens, the team will be disqualified.
+•	Points will be awarded on the basis of time taken by a team to complete the race, less is the time taken more will be the points awarded.
+•	Points will also be awarded for crossing the checkpoints, the more checkpoints you cross more will be the points awarded.
+•	Team with maximum number of points will be declared winner.
+
+General Rules
+•	Each team can consist of a maximum of 4 members.
+•	Each team should have unique participants i.e. no two teams can have even a single participant common.
+•	The team members can be from different institutes or colleges.
+•	All participants should carry a valid identity card of their respective educational Institutes during the event.
+•	The participants are required to be present on arena at least 15 minutes before their turn.
+•	The right spirit of participation is expected from the participants.
+•	The decision of the event organizers will be final and binding.
+•	The participants will be provided with 24 Volts D.C. supply. In case the robot requires a power supply other than the one mentioned above, the participants will have to arrange for it themselves.
+•	During the course of run, pulling the wire to aid the robot in traversing is not allowed.
+•	Any damage to the arena by the bot will lead to its immediate disqualification.

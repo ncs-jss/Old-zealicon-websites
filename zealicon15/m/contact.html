@@ -1,0 +1,110 @@
+<!--Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Zelicon-2015</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery.min.js"></script>
+<!-- Custom Theme files -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<!-- Custom Theme files -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); }>
+</script>
+<meta name="keywords" content="" />
+<!--Google Fonts-->
+<link href='http://fonts.googleapis.com/css?family=Ropa+Sans:400,400italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<!--strip start here-->
+    <div class="mothergrid">
+        <div class="strip"> 
+            <div class="logo">
+
+            </div>
+            <div class="top-nav">
+                <span class="menu"> <img src="images/icon.png" alt=""/></span>
+                <ul class="res"> 
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="team.html">Team</a></li>
+                    <li><a href="events.html">Events</a></li>
+                    <li><a href="registration.html">Registration</a></li>
+                    <li><a href="schedule.html">Schedule</a></li>
+                    <li><a class="active" href="contact.html">Contact</a></li>
+                    <li><a href="login.html">Login</a></li>
+                </ul>
+                <!-- script-for-menu -->
+                <script>
+                    $( "span.menu" ).click(function() {
+                        $( "ul.res" ).slideToggle( 300, function() {
+                            // Animation complete.
+                        });
+                    });
+                </script>
+                <!-- /script-for-menu -->
+            </div>
+        </div>
+	<div class="container">
+<!--strip end here-->
+<!--header start here-->
+<div class="header">
+	<div class="social-icons">
+		<ul class="head-icons">
+		  	<li><a class="fa" target="_blank" href="https://www.facebook.com/zealicon"> </a></li>
+            <li><a class="tw" href="https://twitter.com/zealicon_jss"> </a></li>
+		</ul>
+	</div>
+
+	<div class="clearfix"> 	</div>
+	<span class="bann-line"> </span>
+</div>
+<!--header end here-->
+<!--contact start here-->
+<div class="contact">
+		<div class="contact-top">
+		<h3>Institute Address</h3>
+		<p><b>JSS Academy of Technical Education</b>
+      <br>
+    C-20/1, Sector-62, Noida-201301
+    </p>
+	</div>
+	<div class="clearfix"> </div>
+</div>
+
+    
+    <div class="map">
+		 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3502.523079451588!2d77.359504!3d28.614081!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce541dc34567f%3A0x4fd027cb23d66b19!2sJSS+Academy+Of+Technical+Education!5e0!3m2!1sen!2sin!4v1426173001230" width="600" height="450" frameborder="0" style="border:0"></iframe>
+</div>
+<!--contact  end here-->
+<!--copyright start here-->
+        </div>
+<div class="copy-right footer">
+	<p>&copy; Nibble Computer Society 2015</p>
+</div>
+	</div>
+    </div>
+    <script>
+        $(document).ready(function(){
+            adjustFooter();
+        });
+
+        adjustFooter = function(){
+            var footer = $('.footer');
+            var f = footer.offset().top+footer.height();
+            var w = $(window).height();
+            console.log(f,w);
+            if(f<w){
+                footer.addClass('stickBottom');
+            }
+        }
+    </script>
+<!--copyright end here-->
+</body>
+</html>

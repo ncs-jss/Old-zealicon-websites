@@ -1,0 +1,17 @@
+Track Specifications:  
+•	The track will be an all-terrain track with sharp turns and big jumps. The car should be able to cross bumps, rough patches on the track and outdo the opponents time while maintaining its stability and not compromising on its pace.
+•	The width of the track will be around 2 feet for most of the part.
+•	Despite organizers' efforts to keep the track quality intact, the track is subjected to undergo wear and tear as machines run over it. The machine is expected to be able to perform on such a weakened track. 
+•	Track will consist of following obstacles.
+      	Small bumps above ground
+      	Ramps
+      	Bridges
+      	Greased surfaces
+      	Pit holes
+
+Bot Specifications
+•	The robot should not exceed the dimensions of 300mm x 200mm x 200mm (l*b*h) at any point of time during the event.
+•	Maximum voltage difference between any two points at any point of time on the track should not be more than 24V.
+•	Robot can be either radio controlled (wireless) or wired.
+•	No readymade assemblies/lego kits are allowed.
+•	Bot may have an on-board or off board power supply.

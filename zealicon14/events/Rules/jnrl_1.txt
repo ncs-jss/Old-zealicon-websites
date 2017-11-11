@@ -1,0 +1,20 @@
+The results for the event will be declared by 16th April 2014.
+
+• Mention the title of your project, your names, team names and your college, while submitting on jssnokia@gmail.com.
+• Along with project also try attach a flow chart description of basic functioning of your app in .ppt, .jpg, .pdf (or) .docx format.
+• In case apps, if broken in modules, presenting well defined UX/UI, giving live notification to user, and presenting live information on home screen, or tiles will be awarded extra points.
+• Winners in competition during ZEALICON 2014 will be selected on the basis of the file uploaded after thorough evaluation by judges.
+• The members of the competing team must control the majority of the intellectual property rights of the app submitted to the competition. 
+•The members of the competing team must account for the majority of the work and resources put into the creation and marketing of the app. You may use third-party frameworks if you have acquired appropriate licenses to use them.
+• New, unique apps with good interface and design, will get higher priority to be considered for the competition.
+• Teams may submit one (1) or more apps if they wish to from the given list of apps, for the competition. 
+• For apps, the following operating systems can be used for this competition:
+
+1.	Android (Version: 2.3.3 Gingerbread and above)
+2.	Windows Phone (Version: Windows Phone 7.1)
+
+• All code used to develop official competition entries must be submitted for review. Judges will look at your code as part of the Judges Choice evaluation. Teams retain all rights to their app and code. JSS NOKIA Research Labs will treat source code like course work handed in as part of taking a class at the university. It will remain private, but faculty (and judges acting on behalf of the faculty) may examine it. 
+• Participants must make sure that their participation in ZEALICON does not lead to violation of Copyright laws of any applications already implemented.
+• The JSS NOKIA Innovation Labs reserves the right to change and/or otherwise alter these rules at any time and for any reason.
+• The results will be declared on 16th April 2014. All final round participants and winners will be awarded certificates.
+• Plagiarized content will be strictly dealt with and would lead to participant's disqualification. In case of any discrepancy, organizers decision will be final and binding.

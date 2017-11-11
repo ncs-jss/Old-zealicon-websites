@@ -1,0 +1,2 @@
+You have to design a “Manually Controlled Machine” based on the concept of world famous “Calcutta TRAM”. The challenge is to receive supply from the overhead live wire and return to the neutral through the tracks of the TRAM. The TRAM will be equipped with modern hi-tech components so as to detect obstacles on its path and give proper “Warning Signals”. You will be the operator of the TRAM, control its speed, save it from the hazardous obstacles and maneuver over specially designed track. 
+(For more details, refer to the Download section)

@@ -1,0 +1,2 @@
+All you have to do is to prepare an autonomous robot capable of making some lower level decisions itself and a manual robot capable of  picking  and dropping blocks on the arena and perform given task.
+The OBJECTIVE is to complete tasks as fast as possible. The score will be awarded on the basis of completion time.

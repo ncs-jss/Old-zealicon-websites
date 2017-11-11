@@ -1,0 +1,16 @@
+1.Maximum dimension limits for each robot is (length x breadth x height) 400mm x 400mm x 400mm
+2.If any of the machines uses an externally placed power supply, the external power supply is not included in the size constraint. However in case of on-board power supply, the machine along with the power supply should fit in the above mentioned dimension box.
+3.The machine must use only mechanical power or mechanical power converted from a source of electrical energy. 
+4.During the game the machine is allowed to expand  as much as it can,  provided it does not damage the arena
+5.In case of electric power supply, the voltage at any point must be lower or equal to 24V DC during the game. 
+6.The organizers will provide a standard 230V/50 Hz AC power supply.
+7.Any eliminator, adaptor, etc. required will have to be arranged by participants themselves. No special demands will be entertained. 
+8.The machine must be controlled by wired/wireless remote control mechanism at all stages of the game. 
+9.For wireless mechanism the teams are advised to have dual frequency remote control to avoid frequency interference. 
+10.In case of wired mechanism the wire must be slack at all point of time during the game. Please ensure a fairly long wire considering the arena dimensions and the breach time when the robot will be in the opponent’s zone, while the operators can only be on their side of the arena. 
+The Participants must also make sure that wires do not entangle with the opponent’s wire at all the times of the game play.
+11.The machine should not leave spare parts in the arena at any stage. This can lead to a time penalty or may even lead to disqualification.
+12.Devices like hot air balloons/rockets which
+assist the machine in movement in any way are not permitted. Any kind of assistance for locomotion through walls is prohibited.
+13.Also use of Lego parts, readymade assembly from toys will lead to disqualification.
+

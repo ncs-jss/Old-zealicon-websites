@@ -1,0 +1,3 @@
+[17-Mar-2015 10:42:53 UTC] PHP Fatal error:  Call to undefined function dbConnect() in /home/zeal14/public_html/beta/scripts/data.php on line 4
+[23-Mar-2015 12:56:41 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/scripts/data.php on line 96
+[23-Mar-2015 12:57:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zeal14/public_html/scripts/data.php on line 96

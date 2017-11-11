@@ -1,0 +1,6 @@
+•	<Rule No. 1> A team must consist of 2 or 3 participants.  
+•	 <Rule No. 2> 100 base points are given to each team.
+•	<Rule No. 3> Teams have the option to make investments of desired amounts (in multiples of 10), which could be increased, decreased or changed at any point of time, before a questions is asked.
+•	<Rule No. 4> 20% of invested money is awarded for a correct answer.
+•	<Rule No. 5> 20% of invested money is deducted for an incorrect answer.
+•	<Rule No. 6> 10% of invested money is awarded for a correct answer of a passed question, that is, if the team answering the question has invested any money, 10% of it was awarded.

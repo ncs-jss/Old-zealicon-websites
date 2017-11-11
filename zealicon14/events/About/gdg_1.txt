@@ -1,0 +1,5 @@
+A 24 hour hackathon which will be based on a theme. 
+Teams will be shortlisted based on a quiz. 
+The shortlisted teams need to build an application based on the event theme and preferably using tools and technologies related to Google. 
+The food and drinks of the teams will be taken care of during the event so that the teams concentrate on their applications.
+Students will get a chance to showcase their apps to the Google Developer community and to lead GDG JSS Noida from the next academic year.

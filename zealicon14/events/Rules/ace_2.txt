@@ -1,0 +1,5 @@
+** Every team will consist of 4 members.
+ ** Each team will be provided with terrains/maps.
+ ** Clues to find different location on maps will be given.
+ ** For every clue teams have to mark a point on map sheet
+ ** The team which marks maximum correct points or with better time in case of TIE wins.

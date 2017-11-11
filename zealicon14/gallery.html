@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel="stylesheet" href="assets/css/gallery.css"/>
+<script type="text/javascript" src="assets/js/gallery.js"></script>
+<script type="text/javascript" src="assets/js/galleryimg.js"></script>
+<script type="text/javascript" src="assets/js/jquery-1.11.0.min.js"> </script>
+<script type="text/javascript">
+$(document).ready(
+		function()
+		{
+$('#backbut').hover(
+		 function()
+		 {
+			$('#htext').removeClass('inv');
+			$('#htext').text('BACK');
+			$('#htext').addClass('vis');
+		 });
+		 $('#backbut').mouseout(
+		 function()
+		 {
+		    $('#htext').removeClass('vis');
+			$('#htext').addClass('inv');
+		 });
+		});
+ </script>
+
+</head>
+<body>
+
+<canvas id="screen"></canvas>
+<div id="hdng">GALLERY</div>
+<div id="shdw">GALLERY</div>
+<div id="backbut" onclick="window.location='home.html'">B</div>
+	<div class="inv" id="htext"> - </div>
+</body>
+</html>

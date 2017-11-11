@@ -1,0 +1,15 @@
+Participants have to give a Technical Paper Presentation on the topics falling in these categories:
+•	Non-Conventional Energy Resources
+•	SCADA and PLC
+•	Smart Grid/ Smart Home Appliances
+•	Microcontroller Applications
+•	GPS
+•	Wireless Communication
+•	Automobile
+•	Mechatronics
+•	Work force management
+•	Green town Planning 
+•	Other upcoming technologies
+
+Last date for sending abstracts is April 10, 2014.
+Please refer the attached guideline file in the Downloads section for more details.

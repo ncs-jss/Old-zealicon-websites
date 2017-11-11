@@ -1,0 +1,2 @@
+1)	This is a team event. A team can contain a maximum of 2 players.
+2)	A common database will be shared among participants so they will not be allowed to modify the given database.

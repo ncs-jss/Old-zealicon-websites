@@ -1,0 +1,6 @@
+-1 step is defined as the transfer of energy from one action to another action. Identical transfers of energy in succession should be counted as 1 step. For example, a sequence of dominos hitting each other should be counted as one step no matter how many dominos are in succession.
+-Can have a maximum of 3 attempts to complete the task with a maximum reset time of 5 minutes.
+-Extra steps above the minimum can be counted for extra points.
+-A written report describing the steps of the machine is due before presenting the machine.
+-A brief verbal explanation of the machine is required before demonstration. (Max. 10 minutes)
+

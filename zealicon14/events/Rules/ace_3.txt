@@ -1,0 +1,8 @@
+*A team may consist of a maximum of 4 members. Students from different educational institutes can form a team.  * Team should submit the abstract having the one sided truss design of the model on an A3 sheet. 
+*The structures made will be tested on the day of the event. 
+ *Use Popsicle sticks provided.
+* Sticks can be altered physically by cutting or notching at any angle. 
+* Only Fevicol can be used as adhesive, use of other adhesives may lead to disqualifications. 
+* Use of threads is not allowed.
+ *In  Testing the bridge ,the load will be applied through a hook that connects a steel platform that will be laid upon the span of the bridge.The platform will be stretched from each ends and will be connected through the hooks which will be continuously increased through the manual jack.  The platform will be same for every team and will be placed at the middle of  the structure.  The bridge model will be loaded till deflection.
+* The maximum deflection at the point of yielding and the load at that moment will be used to evaluate the structure. If it happens that the structure reaches the threshold deflection of 1.0 cm then the jack will be stopped and the evaluation will be made on the same load. At this case the structure will not be tested further.

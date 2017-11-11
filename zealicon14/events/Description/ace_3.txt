@@ -1,0 +1,7 @@
+Build a model truss bridge using easily available materials like Popsicle sticks and glue which can sustain maximum load, satisfying the stated constraints.
+
+The Popsicle Bridge dimensions should be within the specified limits of: 
+* Length = 60-65 cm 
+* Width = 14 cm 
+* Height = 12 cm 
+ * Weight =The bridge must weigh 250 grams or less.

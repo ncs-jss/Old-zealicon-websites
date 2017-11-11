@@ -1,0 +1,1 @@
+Participants will be given a set of java source file with logical and syntactical errors. The specification for input and output format required for each program will be specified. Participants are expected to completely eradicate the errors and make the programs such that it must take input and produce output in the specified format.

@@ -1,0 +1,2 @@
+“If debugging is the process of removing software bugs, then programming must be the process of putting them in. ” - Edsger Dijkstra
+	Can there be a techfest without a coding event?  Zealicon provides such an extravaganza for enthusiastic programmers, who are willing to put their encoding skills to the test.

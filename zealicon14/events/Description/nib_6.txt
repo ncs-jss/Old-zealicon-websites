@@ -1,0 +1,3 @@
+Welcome to Crack the Shell, an event which measures a contestant’s keen interest towards Linux.  The event consists of two rounds.
+1.	Preliminary: The first round comprises 30 MCQs related to Linux kernel and shell scripting concepts. The event will be of 30 minutes.
+2.	Mains:  The contestant’s will be asked to design a shell script which would be tested on a target directory on a given problem statement. The event will be of 90 minutes

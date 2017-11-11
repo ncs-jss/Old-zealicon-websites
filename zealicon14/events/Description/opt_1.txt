@@ -1,0 +1,1 @@
+There are 9 rounds, each round must be cleared in given time otherwise a penalty of 10 minutes will be charged.

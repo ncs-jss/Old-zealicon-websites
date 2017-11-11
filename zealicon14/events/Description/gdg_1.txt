@@ -1,0 +1,6 @@
+The theme for the Hackathon being conducted by Google Developer Group JSS Noida is - "Its all about Location and Context"
+The theme basically revolves around the usage of location sensors available across all devices and making the application read the users location to provide valuable information at the right time and more importantly, at the right location.
+
+The Idea can incorporate the usage of Location Data in any form suitable provided the Context is clear. So as mentioned Context does play an important role here all because, contextually relevant information is something every user looks for today. A good Example for such an app could be a mobile solution to provide a user with suggestions for places to visit based on the search history and profile details of the user and the current location of the user as well.
+
+The limits for the creative extent of such a theme simply fade when the endless use-case scenarios are considered.

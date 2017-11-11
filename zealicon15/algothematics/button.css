@@ -1,0 +1,96 @@
+.grid_3 {
+    cursor: pointer;
+    opacity: .8;
+}
+.grid_3:hover {
+		opacity: 1;	
+		-webkit-transition: all 0.2s linear;
+		-moz-transition: all 0.2s linear;
+		-o-transition: all 0.2s linear;
+		-ms-transition: all 0.2s linear;
+		transition: all 0.2s linear;
+	}
+#biggerspan{
+    width: 120px;
+    margin-left:-20px;
+}
+
+.fmcircle_in {
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+	display: inline-block;
+	overflow: hidden;
+	border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	-o-border-radius: 40px;
+}
+
+.fmcircle_in img {
+	border: none;
+    display: block;
+	margin: 13px;
+	width: 54px;
+	height: 54px;
+		
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-ms-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+.fmcircle_in span {
+	margin-top: 30px;
+	padding: 0;
+	border: 0;
+	vertical-align: middle;
+	width: 80px;
+	background: rgba(255,255,255,.9);
+	color: #666666;
+	height: 20px;
+    font-size: 13px;
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	float: left;
+	position: absolute;
+	opacity: 0;
+	
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-o-border-radius: 2px;
+		
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	-ms-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+	.grid_3:hover .fmcircle_in span {
+		opacity: 1;
+		
+		-webkit-transition: all 0.2s linear;
+		-moz-transition: all 0.2s linear;
+		-o-transition: all 0.2s linear;
+		-ms-transition: all 0.2s linear;
+		transition: all 0.2s linear;
+	}
+
+	
+.grid_3:hover .fmcircle_in img {
+		margin:10px;
+		width: 60px;
+		height: 60px;
+		
+		-webkit-transition: all 0.2s linear;
+		-moz-transition: all 0.2s linear;
+		-o-transition: all 0.2s linear;
+		-ms-transition: all 0.2s linear;
+		transition: all 0.2s linear;
+	}
+	

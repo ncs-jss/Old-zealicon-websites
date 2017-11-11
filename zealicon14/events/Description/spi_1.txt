@@ -1,0 +1,23 @@
+Specifications:
+Dimensions and Fabrications:
+1.	The machine should fit in a box of dimension 600mm x 600 mm x 500 mm (lxbxh) (±50 mm) at any given point during the match. The external device used to control the machine or any external tank is not included in the size constraint.
+2.	The machine should not exceed 30 kg (±1 kg) of weight including the weight of pneumatic source/tank. Weight of remote controller will not be counted.
+
+Mobility
+All robots must have easily visible and controlled mobility in order to compete. Methods of mobility include:
+1.	Rolling (wheels, tracks or the whole robot).
+2.	Non-wheeled robots having no rolling elements in contact with the floor and no continuous rolling or cam operated motion in contact with the floor, either directly or via a linkage. Motion is "continuous" if continuous operation of the drive motor(s) produces continuous motion of the robot. Linear-actuated legs and novel non-wheeled drive systems come under this category.
+3.	Jumping and hopping is not allowed.
+4.	Flying (using airfoil, helium balloons, ornithopters, etc.) is not allowed.
+
+Robot Control Requirements
+1.	The machine can be controlled through wired or wireless remote. Refer below for further details on battery and power.
+2.	The machines using wireless remote must at least have a four frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results.
+3.	Remote control systems from toys might be used. Remote control systems available in the market may also be used but the participants must have dual frequency receiver- transmitters.
+4.	Non standard or self made remote control systems must first be approved by the organizers.
+
+Power& Battery
+1.	The machine can be powered electrically only. Use of an IC engine in any form is not allowed.
+2.	A DC supply of 24 V shall be provided to each team during the match.
+3.	The electric voltage (from battery or supply) between 2 points anywhere in the machine should not be more than 24 V DC at any point of time during the match.
+4.	Every match will last upto 3 mins till semi-final matches and will be 5 mins for final match.

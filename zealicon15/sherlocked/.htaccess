@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^sherlocked\.zealicon\.in$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.sherlocked\.zealicon\.in$
+RewriteRule ^/?$ "http\:\/\/54\.173\.150\.90\/" [R=301,L]
+
